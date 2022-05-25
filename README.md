@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jeff!
-- 👀 I’m interested in numbers and data while applying them to different sports.  
-- 🌱 I’m currently learning coding and data science.
-- 💞️ I’m looking to collaborate on building analytical sports models to predict future success for fantasy sports usage.  
+- 👀 I’m interested in numbers and data while applying them in analytical manner, especially sports!  
+- 🌱 I’m currently learning coding and data science at Rutgers University. 
 - 📫 How to reach me - email : jmclean1087@gmail.com.
 
 <!---
