@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeff!
 - 👀 I’m interested in numbers and data while applying them in analytical manner, especially sports!  
-- 🌱 I’m currently learning coding and data science at Rutgers University. 
+- 🌱 I recently just graduated from Rutgers University Data Science program.  
 - 📫 How to reach me - email : jmclean1087@gmail.com.
 
 <!---
